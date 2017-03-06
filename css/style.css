@@ -5,14 +5,14 @@ h2, h1, p, span, footer, div, a, br, body, html, span, form, nav, input[type="bu
   box-sizing: border-box;
 }
 
-@fontface{
-  font-family:"Blacksword";
-  src:url("../typo/Blacksword.otf") format('truetype');
+@font-face{
+  font-family:'Blacksword';
+  src:url('../typo/Blacksword.otf');
 }
 
-@fontface{
+@font-face{
   font-family:"Raleway";
-  src:url("../typo/Raleway-Regular.ttf");
+  src:url('../typo/Raleway-Regular.ttf');
 }
 
 body {
